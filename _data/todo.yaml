@@ -1,0 +1,30 @@
+# todos
+done:
+  - put up site
+  - write a create_post bash_script
+  - put up olde
+  - olde 2 nueue
+
+doing:
+  - nueue
+
+misc minor:
+  - dev branch => PRs from there
+  - finish readme
+  - edit _config.yml description & segment title append
+
+  - separate out workflows, dev & writing
+  - github submodule for blog_posts? <= budparr
+
+future blog_post ideas:
+  - css - external, internal, inline 
+  - html-preproccesers - haml, jade, pug
+  - how i set up jekyll & netlify
+  - my editor and computer set up
+
+jekyll theme tweaks:
+  - !css bump up fontsize and ? lineheight
+  - !css system-ui - https://css-tricks.com/snippets/css/system-font-stack/#article-header-id-2
+  - !css 3 breakpoints - olde-new
+  - !html footer link to repo ?
+  - link todos and commits, adding a date to these
